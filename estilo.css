@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-right: 40px;
+    font-size: 1em;
+    font-family: sans-serif;
+    /* justify-content: center; */
+    margin-left: 36%;
+    background-color: rgb(234, 226, 226);
+}
+table{
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 0 black;
+    width: 500px;
+    /* justify-content: center; */
+    padding: 10px;
+}
+
+.lista{
+    text-align: center;
+    
+}
+
+#topo{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.g4{
+    background-color: rgba(0, 0, 255, 0.41);
+    text-align: center;
+}
+
+.rebaixamento{
+    background-color: rgba(255, 0, 0, 0.475);
+    text-align: center;
+}
+
+.preliberta{
+    background-color: rgba(255, 166, 0, 0.486);
+    text-align: center;
+}
+
+.verde{
+    background-color: rgba(0, 128, 0, 0.481);
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    padding: 5px;
+}
